@@ -1,90 +1,109 @@
 <div align="center">
-<img src="https://media.tenor.com/images/e54cc144e10289281a8e14974ea665bf/tenor.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">Hi 👋, I'm Matthew 🙆‍♂️I am still developing in technogli flutter both fronted and backend👩‍💻</div>  
-  
-
-- 🔭 I’m currently working on [Github ](https://github.com/blaszkaaa)  
-  
-
-- 🌱 I’m currently learning Flutter and Neural networks  
-  
-
-- ❓ Ask me about anything related to Flutter  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
+  <h1>
+    Cześć 👋, jestem Mateusz 👨‍💻
+  </h1>
+  <h3>
+    Full-Stack Web Developer (w trakcie rozwoju)
+  </h3>
+  <p>
+    Pasjonat tworzenia czystego, wydajnego kodu i intuicyjnych interfejsów użytkownika. <br /> Specjalizuję się w <strong>React</strong> i <strong>TypeScript</strong>, ale nieustannie poszerzam horyzonty o technologie backendowe.
+  </p>
 </div>
 
-</td><td valign="top" width="33%">
+---
 
+### 🚀 Co robię?
+> Tworzę kompleksowe rozwiązania webowe, łącząc estetykę frontendu z logiką backendu. Moim celem jest dostarczanie produktów, które są nie tylko funkcjonalne, ale także przyjemne w użytkowaniu.
 
+<br>
 
-### Backend  
-<div align="center">  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <div align="center">
+        <span style="font-size: 3em;">💻</span>
+        <br><br>
+        <strong>Frontend Development</strong>
+        <p>Buduję interaktywne i responsywne interfejsy użytkownika przy użyciu nowoczesnych bibliotek i frameworków.</p>
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <div align="center">
+        <span style="font-size: 3em;">⚙️</span>
+        <br><br>
+        <strong>Backend Development</strong>
+        <p>Projektuję i implementuję logikę serwerową, API oraz zarządzam bazami danych, dążąc do tworzenia skalowalnych aplikacji.</p>
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <div align="center">
+        <span style="font-size: 3em;">🎨</span>
+        <br><br>
+        <strong>UI/UX & Design</strong>
+        <p>Kładę duży nacisk na doświadczenie użytkownika (UX) i przejrzysty design (UI), dbając o każdy detal wizualny projektu.</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠 Mój stos technologiczny
+
+<table>
+  <tr>
+    <td valign="top">
+      <strong>Frontend:</strong><br>
+      <code><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></code>
+      <code><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></code>
+      <code><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></code>
+      <code><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></code>
+      <code><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></code>
+      <code><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /></code>
+    </td>
+    <td valign="top">
+      <strong>Backend:</strong><br>
+      <code><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></code>
+      <code><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /></code>
+      <code><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></code>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>Bazy Danych:</strong><br>
+      <code><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></code>
+      <code><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></code>
+      <code><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /></code>
+    </td>
+    <td valign="top">
+      <strong>Narzędzia i Inne:</strong><br>
+      <code><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></code>
+      <code><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" /></code>
+      <code><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></code>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📂 Moje portfolio
+> Poniżej znajdują się moje najważniejsze projekty komercyjne.
+
+| Projekt | Opis | Główne Technologie |
+| :--- | :--- | :--- |
+| **[domkilukas.pl](https://domkilukas.pl/)** | Nowoczesna platforma prezentująca ekologiczne domy modułowe z interaktywnymi galeriami i systemem prezentacji realizacji. | `React`, `TypeScript`, `Responsive Design` |
+| **[lukas.biz.pl](https://lukas.biz.pl/)** | Profesjonalna witryna firmy budowlanej. Wdrożenie funkcjonalności, formularzy oraz integracja z platformą `domkilukas.pl`. | `JavaScript`, `HTML/CSS`, `SEO` |
+
+---
+
+### 📊 Statystyki
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=blaszkaaa&show_icons=true&theme=dracula" />
 </div>
-</table>  
 
-<br/>  
+---
 
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/blaszkaaa" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=blaszkaaa&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Spotify
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=fn53cc1udldvvyo0cpsh47du4&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=blaszkaaa&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center"></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+### 💬 Skontaktuj się ze mną
+<p align="center">
+  <a href="https://www.linkedin.com/in/mateusz-kaźmierczak-a03756299" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
